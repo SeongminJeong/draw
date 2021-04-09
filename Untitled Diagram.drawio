@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-04-09T02:50:44.403Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36" etag="fV9yHq4YAAce8VL12MCP" version="14.5.8" type="github">
+<mxfile host="app.diagrams.net" modified="2021-04-09T02:53:17.237Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36" etag="jm8jN83rgaLI7-1LDWMN" version="14.5.8" type="github">
   <diagram id="5hyMWRGSqQ4SlB6LDzxA" name="Page-1">
     <mxGraphModel dx="1422" dy="772" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -215,7 +215,7 @@
           <mxGeometry x="760" y="760" width="170" height="40" as="geometry" />
         </mxCell>
         <mxCell id="tawx1T94hFqLpHu8qOPG-79" value="&lt;ol style=&quot;text-align: right&quot;&gt;&lt;li style=&quot;text-align: justify&quot;&gt;DNS 와 VIP 어떻게 구성할지..??&lt;/li&gt;&lt;li style=&quot;text-align: justify&quot;&gt;QMS-파트너 구성은 누가 어떻게?&lt;/li&gt;&lt;/ol&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#66FFB3;" vertex="1" parent="1">
-          <mxGeometry x="1000" y="55" width="230" height="155" as="geometry" />
+          <mxGeometry x="1000" y="60" width="230" height="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
