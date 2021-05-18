@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-05-18T03:20:02.123Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" etag="pj5p2aDpVV0lNJzE8nR4" version="14.6.1" type="github">
+<mxfile host="app.diagrams.net" modified="2021-05-18T03:22:29.135Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" etag="JqXhcNZDBFVNnwpuY3tJ" version="14.6.1" type="github">
   <diagram id="E9FJN7PyY-uKiUZsuDe3" name="Page-1">
     <mxGraphModel dx="1422" dy="772" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -7,7 +7,7 @@
         <mxCell id="S9BM_q31SvFwsfb8aXy0-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="S9BM_q31SvFwsfb8aXy0-1" target="S9BM_q31SvFwsfb8aXy0-3" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="S9BM_q31SvFwsfb8aXy0-1" value="스위치" style="whiteSpace=wrap;html=1;aspect=fixed;fontStyle=1" parent="1" vertex="1">
+        <mxCell id="S9BM_q31SvFwsfb8aXy0-1" value="스위치" style="whiteSpace=wrap;html=1;aspect=fixed;fontStyle=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="60" y="110" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="S9BM_q31SvFwsfb8aXy0-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="S9BM_q31SvFwsfb8aXy0-2" target="S9BM_q31SvFwsfb8aXy0-4" edge="1">
@@ -21,13 +21,13 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="S9BM_q31SvFwsfb8aXy0-2" value="스위치" style="whiteSpace=wrap;html=1;aspect=fixed;fontStyle=1" parent="1" vertex="1">
+        <mxCell id="S9BM_q31SvFwsfb8aXy0-2" value="스위치" style="whiteSpace=wrap;html=1;aspect=fixed;fontStyle=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="170" y="110" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="S9BM_q31SvFwsfb8aXy0-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="S9BM_q31SvFwsfb8aXy0-3" target="S9BM_q31SvFwsfb8aXy0-9" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="S9BM_q31SvFwsfb8aXy0-3" value="L4&lt;br&gt;VIP&lt;br&gt;210.122.102.33" style="whiteSpace=wrap;html=1;aspect=fixed;fontStyle=1" parent="1" vertex="1">
+        <mxCell id="S9BM_q31SvFwsfb8aXy0-3" value="L4&lt;br&gt;VIP&lt;br&gt;210.122.102.33" style="whiteSpace=wrap;html=1;aspect=fixed;fontStyle=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="60" y="250" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="S9BM_q31SvFwsfb8aXy0-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="S9BM_q31SvFwsfb8aXy0-4" target="S9BM_q31SvFwsfb8aXy0-10" edge="1">
@@ -41,25 +41,25 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="S9BM_q31SvFwsfb8aXy0-4" value="L4&lt;br&gt;VIP&lt;br&gt;210.122.102.33" style="whiteSpace=wrap;html=1;aspect=fixed;fontStyle=1" parent="1" vertex="1">
+        <mxCell id="S9BM_q31SvFwsfb8aXy0-4" value="L4&lt;br&gt;VIP&lt;br&gt;210.122.102.33" style="whiteSpace=wrap;html=1;aspect=fixed;fontStyle=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="170" y="250" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="S9BM_q31SvFwsfb8aXy0-33" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="S9BM_q31SvFwsfb8aXy0-5" target="S9BM_q31SvFwsfb8aXy0-11" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="S9BM_q31SvFwsfb8aXy0-5" value="스위치" style="whiteSpace=wrap;html=1;aspect=fixed;fontStyle=1" parent="1" vertex="1">
+        <mxCell id="S9BM_q31SvFwsfb8aXy0-5" value="스위치" style="whiteSpace=wrap;html=1;aspect=fixed;fontStyle=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="490" y="120" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="S9BM_q31SvFwsfb8aXy0-34" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="S9BM_q31SvFwsfb8aXy0-6" target="S9BM_q31SvFwsfb8aXy0-12" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="S9BM_q31SvFwsfb8aXy0-6" value="스위치" style="whiteSpace=wrap;html=1;aspect=fixed;fontStyle=1" parent="1" vertex="1">
+        <mxCell id="S9BM_q31SvFwsfb8aXy0-6" value="스위치" style="whiteSpace=wrap;html=1;aspect=fixed;fontStyle=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="600" y="120" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="S9BM_q31SvFwsfb8aXy0-7" value="L7&lt;br&gt;VIP 210.122.104.181" style="whiteSpace=wrap;html=1;aspect=fixed;fontStyle=1" parent="1" vertex="1">
+        <mxCell id="S9BM_q31SvFwsfb8aXy0-7" value="L7&lt;br&gt;VIP 210.122.104.181" style="whiteSpace=wrap;html=1;aspect=fixed;fontStyle=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="380" y="120" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="S9BM_q31SvFwsfb8aXy0-8" value="L7&lt;br&gt;210.122.104.181" style="whiteSpace=wrap;html=1;aspect=fixed;fontStyle=1" parent="1" vertex="1">
+        <mxCell id="S9BM_q31SvFwsfb8aXy0-8" value="L7&lt;br&gt;210.122.104.181" style="whiteSpace=wrap;html=1;aspect=fixed;fontStyle=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="710" y="120" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="S9BM_q31SvFwsfb8aXy0-9" value="WEB1&lt;br&gt;210.122.102.31" style="whiteSpace=wrap;html=1;aspect=fixed;fontStyle=1" parent="1" vertex="1">
@@ -118,6 +118,12 @@
         </mxCell>
         <mxCell id="S9BM_q31SvFwsfb8aXy0-44" value="1. AS-IS, TOBE, VIP 위치는 L4, L7?&lt;br&gt;2. Real IP랑 직접 통신?&lt;br&gt;RIP, VIP 모두 ACL 적용이 가능한지?&lt;br&gt;3. 내부 통신 경우 RIP 직접 통신하는 경우 VIP로 통신하게끔 수정하는게 맞는지?&lt;br&gt;4. SRC 파트너 &amp;gt; DST 외부 (NAT IP)&lt;br&gt;&amp;nbsp; &amp;nbsp; SRC파트너 &amp;gt; DST 그룹(RIP)&lt;br&gt;&amp;nbsp; &amp;nbsp; SRC 외부 &amp;gt; DST 파트너(VIP)&amp;nbsp; &amp;nbsp;&amp;nbsp;&lt;br&gt;&amp;nbsp; &amp;nbsp; SRC 그룹 &amp;gt; DST 파트너(RIP?VIP?)&amp;nbsp;&lt;br&gt;5. 그룹 내부중 host에 등록되어있는 경우 .&lt;br&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;align=left;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
           <mxGeometry x="380" y="390" width="420" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="HkFRu-WSLMXovphaMM8r-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="S9BM_q31SvFwsfb8aXy0-6" target="S9BM_q31SvFwsfb8aXy0-11">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="540" y="210" as="sourcePoint" />
+            <mxPoint x="540" y="280" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
